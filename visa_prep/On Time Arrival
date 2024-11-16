@@ -1,0 +1,7 @@
+k=int(input())
+for i in range(0,k):
+    s=int(input())
+    if s>=30:
+        print('YES')
+    else:
+        print('NO') 
