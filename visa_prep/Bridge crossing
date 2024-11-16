@@ -1,0 +1,5 @@
+r,e,n=map(int,input().split())
+if n>e:
+    print((n-e)//r)
+else:
+    print('0')
